@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kiranalur45/LeetCode/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/kiranalur45/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1051-height-checker](https://github.com/kiranalur45/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kiranalur45/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
