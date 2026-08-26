@@ -1,12 +1,25 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        vector<int> sortedsquare ;
-        for(int i=0; i<nums.size(); i++){
-            sortedsquare.push_back( nums[i] * nums[i]);
+        int n = nums.size();
+
+        vector<int> sortedsquare(n);
+
+        int i = 0;
+        int j = n - 1;
+
+        for (int k = n - 1; k >= 0; k--) {
+
+            if (abs(nums[i]) > abs(nums[j])) {
+                sortedsquare[k] = nums[i] * nums[i];
+                i++;
+            }
+            else {
+                sortedsquare[k] = nums[j] * nums[j];
+                j--;
+            }
         }
-        sort(sortedsquare.begin() , sortedsquare.end());
+
         return sortedsquare;
-        
     }
 };
