@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kiranalur45/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/kiranalur45/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0977-squares-of-a-sorted-array](https://github.com/kiranalur45/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kiranalur45/LeetCode/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kiranalur45/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kiranalur45/LeetCode/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/kiranalur45/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kiranalur45/LeetCode/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kiranalur45/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/kiranalur45/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
