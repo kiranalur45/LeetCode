@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kiranalur45/LeetCode/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/kiranalur45/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/kiranalur45/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kiranalur45/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kiranalur45/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/kiranalur45/LeetCode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/kiranalur45/LeetCode/tree/master/1089-duplicate-zeros) |
@@ -53,4 +54,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kiranalur45/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/kiranalur45/LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kiranalur45/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kiranalur45/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
